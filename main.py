@@ -20,5 +20,5 @@ print("First time after merge")
 print("###################################")
 
 print("###################################")
-print("Secon merge prep")
+print("Second merge prep")
 print("###################################")
